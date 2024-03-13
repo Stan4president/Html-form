@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>CSS IN HTML</title>
+            <style>
+                p{
+                    color:green;
+                    font size: 11px
+                }
+            </style>    
+            </head>
+
+        <body>
+            <!-- inline css -->
+            <p style="blue;">This is a blue paragraph    
+            <!-- internal css -->
+            <p id="green_paragraph">This is a green paragraph with large font size: 11px
+            <!-- external css -->
+            <p> class="red_paragraph"
+
+            <div class="container">
+                <img src="African_Bush_Elephant.jpg"
+            </div>    
+        </body>
+     </html>   
